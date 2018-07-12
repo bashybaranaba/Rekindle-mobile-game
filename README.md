@@ -1,2 +1,2 @@
-# Parallax-script-for-2D-games
-This script simulates a moving object in a game.
+# Rekindle
+This is a basic 2D mobile game made using the Unity game engine.  
