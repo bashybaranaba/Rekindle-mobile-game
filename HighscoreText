@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Text))]
-public class HiscoreText : MonoBehaviour
+public class HighscoreText : MonoBehaviour
 {
     Text highscore;
 
