@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class TapController : MonoBehaviour
+public class gameControlls : MonoBehaviour
 {
     public delegate void PlayerDelegate();
     public static event PlayerDelegate OnPlayerDied;
